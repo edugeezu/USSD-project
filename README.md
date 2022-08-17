@@ -10,3 +10,4 @@ How can we levarage the functionality and power of USSD if any, to offer solutio
 
 1. Research the Functional and power of USSD if any.
 2. 
+<H3> Structure in the same way as you would a research paper </H3>
